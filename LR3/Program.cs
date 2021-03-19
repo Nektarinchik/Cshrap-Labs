@@ -24,6 +24,9 @@ namespace Lab3
             Console.WriteLine($"Weight: {auto.Weight}");
             Console.WriteLine($"Year of release: {auto.YearOfRelease}");
 
+            Vehicles vehicles = new Vehicles();
+            vehicles[0] = auto;
+            Console.WriteLine($"Color: {vehicles[0].Color}");
 
         }
     }

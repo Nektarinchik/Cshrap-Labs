@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Lab3
 {
@@ -129,5 +128,4 @@ namespace Lab3
         private int seatsAmount;
         private int yearOfRelease;
     }
-
 }
