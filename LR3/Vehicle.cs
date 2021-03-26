@@ -27,102 +27,13 @@
             gas,
             battery
         }
-        public Сolors Color
-        {
-            get
-            {
-                return color;
-            }
-            set
-            {
-                color = value;
-            }
-        }
-        public EngineTypes EngineType
-        {
-            get
-            {
-                return engineType;
-            }
-            set
-            {
-                engineType = value;
-            }
-        }
-        public FuelTypes FuelType
-        {
-            get
-            {
-                return fuelType;
-            }
-            set
-            {
-                fuelType = value;
-            }
-        }
-        public double EngineCapacity
-        {
-            get
-            {
-                return engineСapacity;
-            }
-            set
-            {
-                engineСapacity = value;
-            }
-        }
-        public int Weight
-        {
-            get
-            {
-                return weight;
-            }
-            set
-            {
-                weight = value;
-            }
-        }
-        public double FuelСonsumption
-        {
-            get
-            {
-                return fuelConsumption;
-            }
-            set
-            {
-                fuelConsumption = value;
-            }
-        }
-        public int SeatsAmount
-        {
-            get
-            {
-                return seatsAmount;
-            }
-            set
-            {
-                seatsAmount = value;
-            }
-        }
-        public int YearOfRelease
-        {
-            get
-            {
-                return yearOfRelease;
-            }
-            set
-            {
-                yearOfRelease = value;
-            }
-        }
-
-        private Сolors color;
-        private EngineTypes engineType;
-        private FuelTypes fuelType;
-        private double engineСapacity;
-        private double fuelConsumption;
-        private int weight;
-        private int seatsAmount;
-        private int yearOfRelease;
+        public Сolors color { get; set; }
+        public EngineTypes engineType { get; set; }
+        public FuelTypes fuelType { get; set; }
+        public double engineCapacity { get; set; }
+        public int weight { get; set; }
+        public double fuelСonsumption { get; set; }
+        public int seatsAmount { get; set; }
+        public int yearOfRelease { get; set; }
     }
 }

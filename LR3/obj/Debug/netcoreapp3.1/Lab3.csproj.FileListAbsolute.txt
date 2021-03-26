@@ -17,7 +17,6 @@ C:\Users\MSI\Desktop\Git\Csharp-Labs\LR3\bin\Debug\netcoreapp3.1\Lab3.runtimecon
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR3\bin\Debug\netcoreapp3.1\Lab3.dll
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR3\bin\Debug\netcoreapp3.1\Lab3.pdb
-C:\Users\MSI\Desktop\Git\Csharp-Labs\LR3\obj\Debug\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache

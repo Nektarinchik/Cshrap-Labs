@@ -7,26 +7,26 @@ namespace Lab3
         static void Main(string[] args)
         {
             Vehicle auto = new Vehicle();
-            auto.Color = Vehicle.Сolors.black;
-            auto.EngineType = Vehicle.EngineTypes.internalCombustionEngine;
-            auto.FuelType = Vehicle.FuelTypes.gasoline;
-            auto.EngineCapacity = 2.2;
-            auto.FuelСonsumption = 9.7;
-            auto.SeatsAmount = 4;
-            auto.Weight = 1960;
-            auto.YearOfRelease = 2014;
-            Console.WriteLine($"Color: {auto.Color}");
-            Console.WriteLine($"Type of engine: {auto.EngineType}");
-            Console.WriteLine($"Type of fuel: {auto.FuelType}");
-            Console.WriteLine($"Engine capacity: {auto.EngineCapacity}");
-            Console.WriteLine($"Fuel consumption: {auto.FuelСonsumption}");
-            Console.WriteLine($"Number of seats: {auto.SeatsAmount}");
-            Console.WriteLine($"Weight: {auto.Weight}");
-            Console.WriteLine($"Year of release: {auto.YearOfRelease}");
+            auto.color = Vehicle.Сolors.black;
+            auto.engineType = Vehicle.EngineTypes.internalCombustionEngine;
+            auto.fuelType = Vehicle.FuelTypes.gasoline;
+            auto.engineCapacity = 2.2;
+            auto.fuelСonsumption = 9.7;
+            auto.seatsAmount = 4;
+            auto.weight = 1960;
+            auto.yearOfRelease = 2014;
+            Console.WriteLine($"Color: {auto.color}");
+            Console.WriteLine($"Type of engine: {auto.engineType}");
+            Console.WriteLine($"Type of fuel: {auto.fuelType}");
+            Console.WriteLine($"Engine capacity: {auto.engineCapacity}");
+            Console.WriteLine($"Fuel consumption: {auto.fuelСonsumption}");
+            Console.WriteLine($"Number of seats: {auto.seatsAmount}");
+            Console.WriteLine($"Weight: {auto.weight}");
+            Console.WriteLine($"Year of release: {auto.yearOfRelease}");
 
             Vehicles vehicles = new Vehicles();
             vehicles[0] = auto;
-            Console.WriteLine($"Color: {vehicles[0].Color}");
+            Console.WriteLine($"Color: {vehicles[0].color}");
 
         }
     }
