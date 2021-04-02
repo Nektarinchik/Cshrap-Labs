@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3VAP+1xENF/3ecxZ4CtySaisyIm1zGbsXfofebQCPYqRpuGdXvlHTig3aqAj3qUZQY6MtFG/Xpt5kAJXcyfueA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Git\\Csharp-Labs\\LR4\\computer information(WMI)\\computer information(WMI).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -27,7 +27,6 @@ namespace Lab3
             Vehicles vehicles = new Vehicles();
             vehicles[0] = auto;
             Console.WriteLine($"Color: {vehicles[0].color}");
-
         }
     }
 }

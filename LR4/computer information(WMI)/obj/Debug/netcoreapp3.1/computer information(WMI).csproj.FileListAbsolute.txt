@@ -1,0 +1,24 @@
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\computer information(WMI).exe
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\computer information(WMI).deps.json
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\computer information(WMI).runtimeconfig.json
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\computer information(WMI).runtimeconfig.dev.json
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\computer information(WMI).dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\computer information(WMI).pdb
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\obj\Debug\netcoreapp3.1\computer information(WMI).csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\obj\Debug\netcoreapp3.1\computer information(WMI).AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\obj\Debug\netcoreapp3.1\computer information(WMI).AssemblyInfo.cs
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\obj\Debug\netcoreapp3.1\computer information(WMI).csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\obj\Debug\netcoreapp3.1\computer information(WMI).dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\obj\Debug\netcoreapp3.1\computer information(WMI).pdb
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\obj\Debug\netcoreapp3.1\computer information(WMI).genruntimeconfig.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\computer information(WMI)\obj\Debug\netcoreapp3.1\computer information(WMI).csproj.CopyComplete

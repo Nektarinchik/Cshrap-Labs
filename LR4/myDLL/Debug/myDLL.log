@@ -1,0 +1,24 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(6,1): warning C4273: Sum: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(11,34): message : см. предыдущее определение "Sum"
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(11,1): warning C4273: Subtract: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(12,34): message : см. предыдущее определение "Subtract"
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(16,1): warning C4273: Multiply: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(13,34): message : см. предыдущее определение "Multiply"
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(21,1): warning C4273: Divide: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(14,34): message : см. предыдущее определение "Divide"
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(28,1): warning C4273: Mod: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(15,34): message : см. предыдущее определение "Mod"
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(35,1): warning C4273: Abs: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(16,34): message : см. предыдущее определение "Abs"
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(41,1): warning C4273: Pow: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(17,33): message : см. предыдущее определение "Pow"
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(50,1): warning C4273: Min: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(18,33): message : см. предыдущее определение "Min"
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.cpp(55,1): warning C4273: Max: несовместимое связывание dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Source.h(19,33): message : см. предыдущее определение "Max"
+  Создание кода...
+     Создается библиотека C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Debug\myDLL.lib и объект C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Debug\myDLL.exp
+  myDLL.vcxproj -> C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\myDLL\Debug\myDLL.dll

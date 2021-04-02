@@ -35,5 +35,7 @@
         public double fuelСonsumption { get; set; }
         public int seatsAmount { get; set; }
         public int yearOfRelease { get; set; }
+
+
     }
 }

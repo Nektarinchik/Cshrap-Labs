@@ -1,0 +1,7 @@
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\MathFunctions\bin\Debug\MathFunctions.exe.config
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\MathFunctions\bin\Debug\MathFunctions.exe
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\MathFunctions\bin\Debug\MathFunctions.pdb
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\MathFunctions\obj\Debug\MathFunctions.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\MathFunctions\obj\Debug\MathFunctions.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\MathFunctions\obj\Debug\MathFunctions.exe
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR4\MathFunctions\obj\Debug\MathFunctions.pdb
