@@ -19,6 +19,8 @@ namespace computer_information_WMI_
                 {
                     Console.WriteLine("Enter the number 1, 2 or 3 depending on the type of information you are interested in : ");
                     type = Convert.ToUInt32(Console.ReadLine());
+                    if (type > 3)
+                        canUseInput = false;                        
                 }
                 catch(FormatException ex)
                 {

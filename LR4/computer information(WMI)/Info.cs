@@ -15,17 +15,19 @@ namespace computer_information_WMI_
                 Console.WriteLine("NumberOfCores: {0}", m["NumberOfCores"]);
                 Console.WriteLine("ProcessorId: {0}", m["ProcessorId"]);
             }
+            mos.Dispose();
         }
         static public void GetRAMInfo()
         {
             ManagementObjectSearcher mos = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM Win32_PhysicalMemory");
-            foreach(ManagementObject m in mos.Get())
+            foreach (ManagementObject m in mos.Get())
             {
                 Console.WriteLine("------------- Win32_PhysicalMemory instance ---------------");
                 Console.WriteLine("BankLabel: {0}", m["BankLabel"]);
                 Console.WriteLine("Capacity: {0} Gb", Math.Round(System.Convert.ToDouble(m["Capacity"]) / 1024 / 1024 / 1024, 2));
                 Console.WriteLine("Speed: {0}", m["Speed"]);
             }
+            mos.Dispose();
         }
 
         static public void GetGraphicsCardInfo()
@@ -39,6 +41,7 @@ namespace computer_information_WMI_
                 Console.WriteLine("Description: {0}", m["Description"]);
                 Console.WriteLine("VideoProcessor: {0}", m["VideoProcessor"]);
             }
+            mos.Dispose();
         }
     }
 }
