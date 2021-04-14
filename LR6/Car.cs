@@ -2,7 +2,7 @@
 
 namespace Transport
 {
-    class Car : Vehicle
+    class Car : Vehicle, IComparable<Car>
     {
         public Car(Сolors color, EngineTypes engineType, FuelTypes fuelType, BodyworkTypes bodyWork,
             Transmission transmission, Drive drive, double engineCapacity, int weight, double fuelСonsumption,
@@ -45,6 +45,16 @@ namespace Transport
             Console.WriteLine($"Drive type : {drive}");
             Console.WriteLine($"Seats amount : {seatsAmount}");
         }
+        public int CompareTo(Car car)
+        {
+            if (price == car.price)
+                return 0;
+            else if (price > car.price)
+                return 1;
+            else
+                return -1;
+        }
+
         public int SeatsAmount
         {
             get

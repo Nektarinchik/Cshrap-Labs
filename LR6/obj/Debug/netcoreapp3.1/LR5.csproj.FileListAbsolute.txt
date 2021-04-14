@@ -23,3 +23,4 @@ C:\Users\MSI\Desktop\Git\Csharp-Labs\LR6\bin\Debug\netcoreapp3.1\LR5.runtimeconf
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR6\bin\Debug\netcoreapp3.1\LR5.dll
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR6\bin\Debug\netcoreapp3.1\LR5.pdb
 C:\Users\MSI\Desktop\Git\Csharp-Labs\LR6\obj\Debug\netcoreapp3.1\LR5.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR6\obj\Debug\netcoreapp3.1\LR5.csprojAssemblyReference.cache

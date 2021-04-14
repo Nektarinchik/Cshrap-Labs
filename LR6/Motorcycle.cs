@@ -2,7 +2,7 @@
 
 namespace Transport
 {
-    class Motorcycle : Vehicle
+    class Motorcycle : Vehicle, IComparable<Motorcycle>
     {
         public Motorcycle(Сolors color, EngineTypes engineType, FuelTypes fuelType, Drive drive, Category category,
             double engineCapacity, int weight, double fuelСonsumption, int yearOfRelease, int price, int seatsAmount) : 
@@ -30,6 +30,15 @@ namespace Transport
             base.GetInfo();
             Console.WriteLine($"Category : {category}");
             Console.WriteLine($"Drive type : {drive}");
+        }
+        public int CompareTo(Motorcycle motorcycle)
+        {
+            if (price == motorcycle.price)
+                return 0;
+            else if (price > motorcycle.price)
+                return 1;
+            else
+                return -1;
         }
     }
 }
