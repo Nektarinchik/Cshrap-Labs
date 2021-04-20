@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mt8GNpuj6KeF+oT7/wOykR1obFRadSf9qALmkOCjq+GpLF3BdTuN5kgXi81g6sZBJyGHmmIs9Ulo//sebDXT6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Git\\Csharp-Labs\\LR7\\LR7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
