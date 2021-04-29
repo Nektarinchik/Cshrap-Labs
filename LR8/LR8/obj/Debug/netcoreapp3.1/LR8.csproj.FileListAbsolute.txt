@@ -1,0 +1,13 @@
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.exe
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.deps.json
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.json
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.dev.json
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.pdb
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.dll
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.pdb
+C:\Users\MSI\Desktop\Git\Csharp-Labs\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.genruntimeconfig.cache
