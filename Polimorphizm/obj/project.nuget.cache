@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpSPaOpEmnpPjlqaofs9vYw/ZUg+lE5OFFhJkc/dGt+QYqStwRY0Pq/gDYfCAPCMlxJ1HkrC7kH3uQrG+rgORw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Polimorphizm\\Polimorphizm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\MSI\Desktop\Polimorphizm\bin\Debug\netcoreapp3.1\Polimorphizm.exe
+C:\Users\MSI\Desktop\Polimorphizm\bin\Debug\netcoreapp3.1\Polimorphizm.deps.json
+C:\Users\MSI\Desktop\Polimorphizm\bin\Debug\netcoreapp3.1\Polimorphizm.runtimeconfig.json
+C:\Users\MSI\Desktop\Polimorphizm\bin\Debug\netcoreapp3.1\Polimorphizm.runtimeconfig.dev.json
+C:\Users\MSI\Desktop\Polimorphizm\bin\Debug\netcoreapp3.1\Polimorphizm.dll
+C:\Users\MSI\Desktop\Polimorphizm\bin\Debug\netcoreapp3.1\Polimorphizm.pdb
+C:\Users\MSI\Desktop\Polimorphizm\obj\Debug\netcoreapp3.1\Polimorphizm.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Polimorphizm\obj\Debug\netcoreapp3.1\Polimorphizm.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Polimorphizm\obj\Debug\netcoreapp3.1\Polimorphizm.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Polimorphizm\obj\Debug\netcoreapp3.1\Polimorphizm.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Polimorphizm\obj\Debug\netcoreapp3.1\Polimorphizm.dll
+C:\Users\MSI\Desktop\Polimorphizm\obj\Debug\netcoreapp3.1\Polimorphizm.pdb
+C:\Users\MSI\Desktop\Polimorphizm\obj\Debug\netcoreapp3.1\Polimorphizm.genruntimeconfig.cache
